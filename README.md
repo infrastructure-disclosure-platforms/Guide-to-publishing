@@ -4,13 +4,13 @@ This Guide is for CoST Secretariats, their partners, and development teams to fa
 # Table of Contents
 
 - [Introduction](#introduction)
-- [Documentation on GitHub](#Documentation-on-GitHub)
-  - [What is the documentation used for?](#What-is-the-documentation-used-for?)
-  - [Whom is the documentation aimed at?](#Whom-is-the-documentation-aimed-at?)	
-  - [Where is the documentation saved, and what format should I use?](#Where-is-it-saved,-and-what-format-should-I-use?)	
-  - [What information should I include in the README file?](What-information-should-I-include-in-the-README-file?)	
-- [Template for CoST Digital Tools](#Template-for-CoST-Digital-Tools)	
-  - [Description and Context](#Description-and-Context)	
+- [Documentation on GitHub](#documentation-on-github)
+  - [What is the documentation used for?](#what-is-the-documentation-used-for)
+  - [Whom is the documentation aimed at?](#whom-is-the-documentation-aimed-at)	
+  - [Where is the documentation saved and what format should I use?](#where-is-the-documentation-saved-and-what-format-should-i-use)	
+  - [What information should I include in the README file?](what-information-should-I-include-in-the-README-file)	
+- [Template for CoST Digital Tools](#template-for-cost-digital-tools)	
+  - [Description and Context](#description-and-context)	
   - [User Guide](#user-guide)	
   - [Installation Guide](#installation-guide)	
   - [How to Contribute](#how-to-contribute)
@@ -51,7 +51,7 @@ A common practice is to create a text document in the root directory named READM
 
 The documentation’s main audience is developers. However, the user guide section is aimed at the tool’s end users. If this section is very complex, it is good practice to dedicate a specific document to it, although the README file should specify the existence of this extra documentation.
 
-### Where is the documentation saved, and what format should I use?
+### Where is the documentation saved and what format should I use?
 
 It is saved in a file named README.md. It should be visible in the digital tool’s main folder, as well as in markdown format. If there is extensive documentation aimed less tech- confidence users, it is recommended to save this documentation in a separate document, although it is always good practice to mention and refer to it in the README.md file.
 
@@ -73,6 +73,8 @@ added to each version.
 
 
 ## Template for CoST Digital Tools	
+
+### Tool name
 
 ### Description and Context	
  >Start the README file with a brief description of the functionality and the context for use of the digital tool. Be specific and concise.
@@ -97,7 +99,7 @@ You can use this style format to differentiate the installation commands.
 
 
 ### How to Contribute	
-Infrastructure Disclosure Platforms (IDP) is CoST- the Infrastructure Transparency Initiative- effort to support CoST Members and other partners to contribute, explore and reuse open- source digital tools, which can be used in the design and implementation of the CoST disclosure journey aiming to improve transparency and accountability in the infrastructure sector around the world.
+Infrastructure Disclosure Platforms (IDP) is [CoST- the Infrastructure Transparency Initiative](https://infrastructuretransparency.org/)- effort to support CoST Members and other partners to contribute, explore and reuse open- source digital tools, which can be used in the design and implementation of the CoST disclosure journey aiming to improve transparency and accountability in the infrastructure sector around the world.
 CoST believes that open-source codes developed by our members or partners should be publicly available to help us to contribute to delivering quality infrastructure, strengthening economies, and improving lives.
  
 Therefore, CoST encourages those who contribute to the improvement of these digital tools, to share them with the IPD manager. If when reusing this digital tool, you consider that:
@@ -154,7 +156,7 @@ All complaints will be reviewed and investigated and will result in a response t
 
 The IDP maintainers who do not follow or enforce the Code of Conduct may face temporary or permanent repercussions as determined by CoST.
 
-*Attribution: This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4.*
+*Attribution: This Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.*
 
 ### Authors
 
